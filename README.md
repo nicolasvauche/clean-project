@@ -38,7 +38,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
    - Créez un fichier `.env` à la racine du projet et ajoutez les variables suivantes :
    ```bash
    PORT=3000
-   DB_PATH=./tasks.db
+   DB_PATH=../../../tasks.db
    ```
 
    - Initialisez la base de données : 
